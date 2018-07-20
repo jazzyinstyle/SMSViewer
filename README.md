@@ -9,7 +9,7 @@
 1. Install SMSViewer.apk on the Android Emulator.
 1. Execute the SMSViewer app.
 1. Use telnet to simulate SMS message sent to Device:
-* CMD > telnet
-* CMD > o localost <port-no-of-Android-emulator-device>
-* CMD > send sms +<sender-number> <sender-message>
+* CMD '> telnet'
+* CMD '> o localost <port-no-of-Android-emulator-device>'
+* CMD '> send sms +<sender-number> <sender-message>'
 
